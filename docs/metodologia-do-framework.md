@@ -221,3 +221,18 @@ A solução deve evoluir com base em:
 - documentação;
 - melhoria contínua;
 - resultados mensuráveis.
+---
+
+# Controle de versões
+
+Toda evolução do framework deve ser registrada no GitHub.
+
+Cada melhoria deve possuir:
+
+- documentação;
+- histórico de alterações;
+- responsável pela mudança (quando aplicável);
+- justificativa da alteração;
+- versionamento organizado.
+
+O objetivo é garantir rastreabilidade, colaboração e evolução contínua do framework.
